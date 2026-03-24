@@ -8,13 +8,13 @@ Actualmente enfocada en fortalecer mis habilidades en desarrollo de software, l�
 
 -  Estudiante de Desarrollo de Software en la Escuela Politécnica Nacional
 -  Interesada en crear sistemas que resuelvan problemas reales
--  Actualmente aprendiendo: Python, C++, Java, MySQL
 -  En constante mejora de mi lógica y habilidades de programación
 
 ###  Actualmente
 
 -  Cursando la carrera de Desarrollo de Software (4to semestre)
 -  Aprendiendo buenas prácticas de programación y resolución de problemas
+-  Aprendiendo: Python, C++, Java, MySQL
 
 ### Contacto
 

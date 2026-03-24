@@ -25,4 +25,4 @@ Actualmente enfocada en fortalecer mis habilidades en desarrollo de software, l√
 ### GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=josselynreyes-ux&theme=aura&border_radius=4.2)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&stats_format=bytes)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josselynreyes-ux&stats_format=bytes)
